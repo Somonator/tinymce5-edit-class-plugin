@@ -1,0 +1,1 @@
+# tinymce5-edit-class-plugin
